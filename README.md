@@ -24,12 +24,12 @@
 
 | **Computer Vision** | **NLP** | **MLOps & Engineering** |
 |---|---|---|
-| Image Classification & Detection | Tokenization & Embeddings | FastAPI Model Serving |
-| Stereo Vision & 3D Reconstruction | BERT & Transformers | REST API Design |
-| Morphological Operations | Text Classification | Docker Containerization |
-| Feature Extraction & Matching | Sequence Modeling | AWS Deployment |
-| Homography & Projective Geometry | Named Entity Recognition | Model Versioning & Pipelines |
-| OpenCV Pipelines | Sentiment Analysis | CI/CD for ML |
+ Tokenization & Embeddings | FastAPI Model Serving |
+ BERT & Transformers | REST API Design |
+ Text Classification | Docker Containerization |
+ Sequence Modeling | AWS Deployment |
+ Named Entity Recognition | Model Versioning & Pipelines |
+ Sentiment Analysis | CI/CD for ML |
 
 ---
 
