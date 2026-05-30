@@ -97,3 +97,5 @@
 *"Learning by building. Shipping by doing. Growing by breaking things."*
 
 [![](https://komarev.com/ghpvc/?username=mogeradhanraj3-art&color=blue&style=flat&label=Profile+Views)](https://github.com/mogeradhanraj3-art)
+
+![snake gif](https://github.com/mogeradhanraj3-art/mogeradhanraj3-art/blob/output/github-snake-dark.svg)
