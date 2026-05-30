@@ -71,9 +71,8 @@
   - LangGraph for stateful agentic AI
   - Docker for containerized ML pipelines
   - B2B AI SaaS — building toward a first real product
-
-- **Academic**
-  - 2nd Year IT Engineering @ VIT · DBMS · Computer Vision · Automata · DIP · Stats
+  - Generative AI
+  - Agentic AI
 
 ---
 
