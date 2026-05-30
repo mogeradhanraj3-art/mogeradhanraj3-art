@@ -22,8 +22,8 @@
 | Model Evaluation & Hyperparameter Tuning | Backprop & Optimizers | Agentic AI (LangGraph) |
 | Recommendation Systems | Batch Normalization & Dropout | LLM Orchestration |
 
-| **Computer Vision** | **NLP** | **MLOps & Engineering** |
-|---|---|---|
+ **NLP** | **MLOps & Engineering** |
+|---|---|
  Tokenization & Embeddings | FastAPI Model Serving |
  BERT & Transformers | REST API Design |
  Text Classification | Docker Containerization |
