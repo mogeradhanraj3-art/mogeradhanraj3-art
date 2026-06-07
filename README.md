@@ -1,8 +1,8 @@
 ### Hey there! 👋
 
 🧑‍💻 I'm **Dhanraj Mogera** ([@mogeradhanraj3-art](https://github.com/mogeradhanraj3-art))  
-🤖 I build **ML/DL systems from scratch** — CNNs, NLP pipelines, computer vision models, and AI-powered APIs.  
-🚀 Currently going deep on **LLMs**, **Agentic AI**, and **Generative Models** — building toward production-grade AI systems.
+🤖 Machine Learning and AI enthusiast passionate about building end-to-end data science and machine learning projects.
+🚀 Currently exploring Deep Learning, NLP, MLOps, Generative AI, and LLM-powered applications while working on real-world projects and deployments..
 
 [![GitHub followers](https://img.shields.io/github/followers/mogeradhanraj3-art?label=followers&style=flat&color=blue)](https://github.com/mogeradhanraj3-art)
 [![GitHub stars](https://img.shields.io/github/stars/mogeradhanraj3-art?style=flat&color=yellow)](https://github.com/mogeradhanraj3-art?tab=stars)
@@ -67,12 +67,14 @@
   - FastAPI deployment — serving ML models in production
   - LLM fine-tuning with LoRA/Unsloth
 
-- **Learning Next**
-  - LangGraph for stateful agentic AI
-  - Docker for containerized ML pipelines
-  - B2B AI SaaS — building toward a first real product
-  - Generative AI
+- ## 🌱 Currently Learning
+
+  - Transformers
+  - LLM Fine-Tuning
+  - LangGraph
   - Agentic AI
+  - Generative AI
+  - MLOps
 
 ---
 
