@@ -38,8 +38,7 @@
 
 - CNNs from scratch — every layer, every gradient
 - FastAPI — serving ML models in production
-- LLM fine-tuning with LoRA/Unsloth
-- Agentic pipelines with LangGraph
+
 
 ---
 
