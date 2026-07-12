@@ -9,18 +9,6 @@
 
 ---
 
-#### 🧠 What I Know
-
-| **ML & Deep Learning** | **LLMs & Gen AI** | **MLOps & Deployment** |
-|---|---|---|
-| CNNs, RNNs, LSTMs | Transformers & Attention | FastAPI Model Serving |
-| Transfer Learning | LLM Fine-tuning (LoRA) | Docker & AWS |
-| GANs & VAEs | RAG Pipelines | CI/CD for ML |
-| Ensemble Methods | Agentic AI (LangGraph) | REST API Design |
-| Recommendation Systems | Prompt Engineering | Model Versioning |
-
----
-
 #### ⚡ Tech Stack
 
 **Languages**  
@@ -50,7 +38,7 @@
 #### 🔭 Currently Building
 
 - CNNs from scratch — every layer, every gradient
-- FastAPI — serving ML models in production  
+- FastAPI — serving ML models in production
 - LLM fine-tuning with LoRA/Unsloth
 - Agentic pipelines with LangGraph
 
