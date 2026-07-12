@@ -1,7 +1,6 @@
 ### Hey there! 👋
 
 🧑‍💻 I'm **Dhanraj Mogera** — aspiring AI Engineer on a mission to master the full stack of modern AI.  
-🚀 From classical ML to Deep Learning, NLP, LLMs, and Agentic AI — learning it all, building it all.
 
 [![GitHub followers](https://img.shields.io/github/followers/mogeradhanraj3-art?label=followers&style=flat&color=blue)](https://github.com/mogeradhanraj3-art)
 [![Instagram](https://img.shields.io/badge/Instagram-dj.synapx-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/dj.synapx)
